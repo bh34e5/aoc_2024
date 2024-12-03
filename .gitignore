@@ -5,4 +5,7 @@
 
 # ignore whatever language I'm using
 
+# executable
+*/work
 */__pycache__/
+*/*.dSYM/
