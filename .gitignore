@@ -1,0 +1,8 @@
+# ignore the puzzle inputs
+
+*/test.txt
+*/input.txt
+
+# ignore whatever language I'm using
+
+*/__pycache__/
