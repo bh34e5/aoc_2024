@@ -1,7 +1,6 @@
 # ignore the puzzle inputs
 
-*/test.txt
-*/test2.txt
+*/test*.txt
 */input.txt
 
 # ignore whatever language I'm using
